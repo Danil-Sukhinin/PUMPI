@@ -9,7 +9,7 @@ from aiogram.exceptions import TelegramAPIError, TelegramRetryAfter
 from datetime import datetime
 
 # Замените на ваш фактический токен бота. Хардкодинг небезопасен; используйте переменные окружения в продуктиве.
-BOT_TOKEN = "8003843825:AAH4vkd9phOfX2TnEK_xIDXrrFu7ssKAUtQ"
+BOT_TOKEN = ""
 
 # Конфигурация логирования
 logging.basicConfig(level=logging.INFO)
